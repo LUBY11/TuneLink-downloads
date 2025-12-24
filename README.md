@@ -24,8 +24,4 @@ This repository hosts release packages for the TuneLink Chrome extension.
 3) Chrome/Edge → `chrome://extensions` → 개발자 모드 → “압축해제된 확장 프로그램 로드”
 4) 압축 해제된 폴더 선택
 
-## Notes
-- Server URL can be configured in the extension panel.
 
-## 참고
-- 서버 주소는 확장 프로그램 패널에서 설정할 수 있습니다.
